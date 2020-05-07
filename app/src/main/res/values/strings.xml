@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Push notification</string>
+    <string name="default_notification_channel_id">123</string>
+    <string name="msg_token_fmt" translatable="false">InstanceID Token: %s</string>
 </resources>
