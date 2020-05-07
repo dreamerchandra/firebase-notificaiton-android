@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "481021400978",
+    "firebase_url": "https://prodigie-e1003.firebaseio.com",
+    "project_id": "prodigie-e1003",
+    "storage_bucket": "prodigie-e1003.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481021400978:android:726d20cfe670c33072134b",
+        "android_client_info": {
+          "package_name": "chandra.sample.pushnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481021400978-m0h28otfeiqg0gsengdal6hrcm2ocahv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "chandra.sample.pushnotification",
+            "certificate_hash": "45be642d1f9e433e87ba7aec1add578abe58b46e"
+          }
+        },
+        {
+          "client_id": "481021400978-gcsudb3epcpkmtu0rnvvdtlt3iep931f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkBmtZmG3Au4Mi2C0Edh6aG2PiJ39Vfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "481021400978-gcsudb3epcpkmtu0rnvvdtlt3iep931f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
